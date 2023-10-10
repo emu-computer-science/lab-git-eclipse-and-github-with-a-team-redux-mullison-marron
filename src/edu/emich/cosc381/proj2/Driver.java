@@ -6,5 +6,6 @@ public class Driver {
 		Glad.glad();
 		Sad.sad();
 		Glad.gladdest();
+		Sad.supersad();
 	}
 }
