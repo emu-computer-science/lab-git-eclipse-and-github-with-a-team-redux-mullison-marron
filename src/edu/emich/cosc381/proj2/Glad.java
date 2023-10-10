@@ -6,5 +6,9 @@ public class Glad {
 		System.out.println("We are feeling glad");
 
 	}
+	public static void gladdest() {
+		System.out.println("We are feeling gladdest");
+
+	}
 
 }
